@@ -1,0 +1,27 @@
+/*usamos div ya que trabajamos con bloques*/
+div{
+  /*dando altura a las caja.*/
+  height: 110px;
+  width: 210px;
+  padding:8px;
+  border:0;
+  margin:10px;
+
+
+
+
+}
+/*dandole color en sus valores rgb*/
+.yellow{
+  background-color: rgb(258,187,5);
+}
+/*dandole color en sus valores rgb*/
+.black{
+  background-color: rgb(21,21,21);
+  color: white
+}
+
+
+/*cambiamos de color contenido*/
+
+}
